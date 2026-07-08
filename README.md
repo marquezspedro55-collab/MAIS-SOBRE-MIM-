@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Pedro Henrique | PHZXX
+# 👨‍💻 Pedro Marques | Developer
 
 ### 🚀 Desenvolvedor Full Stack | Back-end & Front-end | Inteligência Artificial
 
@@ -62,11 +62,13 @@ Tenho interesse especial em:
 - CSS3
 - JavaScript
 - Interfaces Responsivas
+- UI|Desing and UX|Desing
 
 # 🗄️ Banco de Dados
 
 - SQLite
 - MySQL
+- SQL
 
 ---
 
@@ -80,6 +82,11 @@ Plataforma de Inteligência Artificial desenvolvida para auxiliar profissionais 
 
 https://marquesia-eck8xevj.manus.space
 
+---
+
+## 🌐 Automoções
+
+## https://github.com/marquezspedro55-collab/AutomacaoUniversal
 ---
 
 # 📊 Estatísticas GitHub
